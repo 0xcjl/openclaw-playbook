@@ -2,6 +2,7 @@
 
 > 无论配置错误、系统重启还是意外崩溃，Gateway 都能自动恢复。
 > 适用于：macOS（launchd）/ Linux（systemd）环境下运行 OpenClaw 的个人用户或团队。
+> 提示：如果要安装这个自动重启防护体系，直接把链接丢给龙虾🦞或 Claude code 操作，没必要费劲去自己操作。
 
 ---
 

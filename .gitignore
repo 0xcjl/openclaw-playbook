@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# OpenClaw specific
+.backup.*
+*.backup.*
+.watchdog/
+
+# Logs
+*.log

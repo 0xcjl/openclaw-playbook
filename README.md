@@ -8,7 +8,7 @@
 
 | 文章 | 简介 |
 |------|------|
-| [AI Agent 任务调度内幕](./docs/openclaw-agent-routing.md) | 为什么你说不清楚需求，AI 却能猜对？从关键词匹配到 LLM 深度推理的三层任务路由机制拆解 |
+| [我是如何让 AI Agent 理解模糊需求的](./docs/openclaw-agent-routing.md) | Jialin 的实践总结：三层任务路由方法（关键词初筛 → 语义理解 → LLM 深度推理），附实践发现和踩坑经验 |
 | [Gateway 自动重启防护体系](./docs/openclaw-auto-restart.md) | 无论配置错误、系统重启还是意外崩溃，Gateway 都能自动恢复的完整方案 |
 
 ## 🛠️ 配套脚本

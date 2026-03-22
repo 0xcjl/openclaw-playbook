@@ -210,6 +210,6 @@ LLM 深度分析（结合上下文 + 隐含需求 + 复杂度）
 
 **相关资源**：
 - OpenClaw Playbook: https://github.com/0xcjl/openclaw-playbook
-- 我的 X 账号：[@0xcjl](https://x.com/0xcjl)
+- 我的 X 账号：[@0xjialin](https://x.com/0xjialin)
 
 欢迎交流讨论 🚀

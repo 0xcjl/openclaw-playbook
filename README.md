@@ -11,7 +11,6 @@
 | [我是如何让 AI Agent 理解模糊需求的](./docs/openclaw-agent-routing.md) | Jialin 的实践总结：三层任务路由方法（关键词初筛 → 语义理解 → LLM 深度推理），附实践发现和踩坑经验 |
 | [Gateway 自动重启防护体系](./docs/openclaw-auto-restart.md) | 无论配置错误、系统重启还是意外崩溃，Gateway 都能自动恢复的完整方案 |
 | [Ask Don't Tell：让 LLM 不再谄媚的50条实战 Prompt](./docs/sycophancy-prompt-research.md) | 基于 arXiv 论文研究整理：为什么"问法"比"指令"更有效，6大场景50条对比Prompt及三条底层逻辑 |
-
 | [从"看见"到"做到"：browser-cdp 浏览器自动化实践](./docs/browser-cdp-toolchain.md) | 三层工具链（agent-reach + browser-cdp + agent-browser）的设计思路、Phase 1-3 测试结论与真实应用场景 |
 
 ## 🛠️ 配套脚本

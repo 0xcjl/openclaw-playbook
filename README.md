@@ -14,17 +14,7 @@
 | [从"看见"到"做到"：browser-cdp 浏览器自动化实践](./docs/browser-cdp-toolchain.md) | 三层工具链（agent-reach + browser-cdp + agent-browser）的设计思路、Phase 1-3 测试结论与真实应用场景 |
 | [浏览器自动化工具全景图：三个工具的组合战术](./docs/browser-tools-strategy.md) | agent-browser / browser-cdp / browser-use 三层分工详解：为什么需要三个工具、如何组合使用、怎么省 Token，附架构全景图 |
 
-## 🛠️ 配套脚本
 
-| 脚本 | 用途 |
-|------|------|
-| `restart-gateway-safe.sh` | 配置安全重启脚本（含回滚机制） |
-| `watchdog.sh` | Crash Loop 熔断器 |
-| `watchdog-alert.sh` | Watchdog 告警脚本 |
-| `apply-agent-models.sh` | 模型配置更新安全封装 |
-| `ai.openclaw.gateway.plist` | macOS launchd 自启动配置 |
-
-详细内容请阅读对应的文档。
 
 ## 📝 投稿
 

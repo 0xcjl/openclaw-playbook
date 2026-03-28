@@ -14,6 +14,7 @@
 | [从"看见"到"做到"：browser-cdp 浏览器自动化实践](./docs/browser-cdp-toolchain.md) | 三层工具链（agent-reach + browser-cdp + agent-browser）的设计思路、Phase 1-3 测试结论与真实应用场景 |
 | [浏览器自动化工具全景图：三个工具的组合战术](./docs/browser-tools-strategy.md) | agent-browser / browser-cdp / browser-use 三层分工详解：为什么需要三个工具、如何组合使用、怎么省 Token，附架构全景图 |
 | [技能精简复盘：从 11 个工具到 5 核心的自我达尔文主义](./docs/browser-web-tools-optimization.md) | 一次真实的 Skills 盘点与精简：如何发现重叠、如何做决策、什么时候该做这类优化，附完整四步方法论 |
+| [如何在 OpenClaw 上构建本地优先的多 Agent 记忆系统](./docs/memory-system-architecture.md) | 皮皮虾的 6 次迭代实践：MEMORY.md → WAL → DAG → BM25，本地优先、零依赖、可追溯的多 Agent 记忆系统完整方案 |
 
 
 ## 📝 投稿

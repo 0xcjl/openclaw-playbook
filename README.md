@@ -8,6 +8,7 @@
 
 | 文章 | 简介 |
 |------|------|
+| [VBC 铁律：让 AI Agent 学会"先验证，再声称"](./docs/vbc-system-rollout.md) | 从一个血的教训到系统级铁律：皮皮虾如何用 VBC 把"做完"变成"做到"，附三层落地架构 + OPD 进化闭环 |
 | [从 HexaLoop 反思到自动日记：皮皮虾如何学会"每天总结自己"](./docs/auto-diary-skill.md) | 皮皮虾自动日记 skill 从设计到 30 轮 autoresearch 优化的完整复盘：中英双语输出、HexaLoop 反馈闭环、周/月度聚合 |
 | [我是如何让 AI Agent 理解模糊需求的](./docs/openclaw-agent-routing.md) | Jialin 的实践总结：三层任务路由方法（关键词初筛 → 语义理解 → LLM 深度推理），附实践发现和踩坑经验 |
 | [Gateway 自动重启防护体系](./docs/openclaw-auto-restart.md) | 无论配置错误、系统重启还是意外崩溃，Gateway 都能自动恢复的完整方案 |

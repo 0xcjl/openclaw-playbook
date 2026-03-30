@@ -8,6 +8,7 @@
 
 | 文章 | 简介 |
 |------|------|
+| [从 HexaLoop 反思到自动日记：皮皮虾如何学会"每天总结自己"](./docs/auto-diary-skill.md) | 皮皮虾自动日记 skill 从设计到 30 轮 autoresearch 优化的完整复盘：中英双语输出、HexaLoop 反馈闭环、周/月度聚合 |
 | [我是如何让 AI Agent 理解模糊需求的](./docs/openclaw-agent-routing.md) | Jialin 的实践总结：三层任务路由方法（关键词初筛 → 语义理解 → LLM 深度推理），附实践发现和踩坑经验 |
 | [Gateway 自动重启防护体系](./docs/openclaw-auto-restart.md) | 无论配置错误、系统重启还是意外崩溃，Gateway 都能自动恢复的完整方案 |
 | [Ask Don't Tell：让 LLM 不再谄媚的50条实战 Prompt](./docs/sycophancy-prompt-research.md) | 基于 arXiv 论文研究整理：为什么"问法"比"指令"更有效，6大场景50条对比Prompt及三条底层逻辑 |

@@ -2,7 +2,7 @@
 
 > OpenClaw 实战经验、教程与问题探讨。
 
-本仓库用于记录在探索和使用 OpenClaw 过程中积累的经验、教程、最佳实践以及踩坑记录。
+本仓库用于记录在探索和使用 OpenClaw 过程中积累的经验、教程，最佳实践以及踩坑记录。
 
 ## 📖 文章目录
 
@@ -17,7 +17,19 @@
 | 007 | [如何在 OpenClaw 上构建本地优先的多 Agent 记忆系统](./docs/007-memory-system-architecture.md) | 皮皮虾的 6 次迭代实践：MEMORY.md → WAL → DAG → BM25，本地优先、零依赖、可追溯的多 Agent 记忆系统完整方案 |
 | 008 | [从 HexaLoop 反思到自动日记：皮皮虾如何学会"每天总结自己"](./docs/008-auto-diary-skill.md) | 皮皮虾自动日记 skill 从设计到 30 轮 autoresearch 优化的完整复盘：中英双语输出、HexaLoop 反馈闭环、周/月度聚合 |
 | 009 | [VBC 铁律：让 AI Agent 学会"先验证，再声称"](./docs/009-vbc-system-rollout.md) | 从一个血的教训到系统级铁律：皮皮虾如何用 VBC 把"做完"变成"做到"，附三层落地架构 + OPD 进化闭环 |
+| 010 | [anti-sycophancy：从一篇论文到一个三层防御系统](./docs/010-anti-sycophancy-skill.md) | 把 ArXiv 论文落地为可安装的 Claude Code/OpenClaw 技能——Hook自动转换 + SKILL批判模式 + CLAUDE.md持久规则，40轮迭代优化 |
 
+## 🛠️ 配套脚本
+
+| 脚本 | 用途 |
+|------|------|
+| `restart-gateway-safe.sh` | 配置安全重启脚本（含回滚机制） |
+| `watchdog.sh` | Crash Loop 熔断器 |
+| `watchdog-alert.sh` | Watchdog 告警脚本 |
+| `apply-agent-models.sh` | 模型配置更新安全封装 |
+| `ai.openclaw.gateway.plist` | macOS launchd 自启动配置 |
+
+详细内容请阅读对应的文档。
 
 ## 📝 投稿
 
